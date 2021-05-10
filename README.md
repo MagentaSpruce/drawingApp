@@ -7,6 +7,8 @@ Constructing this project has helped me to better practice and understand the fo
 3) Using requestAnimationFrame().
 4) Drawing methods.
 
+This project is baseline - it can be restyled as needed. An extra function could be a save button which would keep specified works stored inside of the local storage.
+
 A general walkthrough of the JavaScript is given below.
 
 First, select the DOM elements to be manipulated. Then construct the drawCircle() function.
