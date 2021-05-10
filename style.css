@@ -33,6 +33,16 @@ canvas{
     display: flex;
 }
 
+p{
+    font-size: 1.4rem;
+    color: rebeccapurple
+
+}
+
+a{
+    text-decoration: none;
+}
+
 .toolbox > * {
     padding: 0 .5rem;
     font-size: 3.59rem;
